@@ -1,4 +1,4 @@
-A poetry video game, made with Unity.
+A poetry video game, made with Unity. This game turns [TextMeshPro](https://docs.unity3d.com/Packages/com.unity.ugui@3.0/manual/TextMeshPro/index.html) objects into a playable character and interactable objects.
 
 - [Watch](https://www.youtube.com/watch?v=gYyy-ZTcEfg) a demo (YouTube). 
 
