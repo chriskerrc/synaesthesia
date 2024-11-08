@@ -8,11 +8,13 @@ Hosted with AWS.
 
 # Instructions
 
+These instructions apply to the version hosted at the "Play" link above. 
+
 You are the “i” in “synaesthesia”. Make new words by pushing the other letters around. Can you make “ah yeastiness”, an anagram of “synaesthesia”?
 
 To play the game: 
 
--  Click the game area above
+-  Click the game area
 
 -  Use the arrow or WASD keys to move the “i”
 
